@@ -1,16 +1,16 @@
-<!-- _coverpage.md -->
+![logo](pic/logos.jpg)
 
-![logo](_media/icon.svg)
+## Viesuki_Note
 
-# Viesuki <small>日記</small>
+> <small>ただの試みであり、勉強でもあります</small>
 
-> ただのテクストであり、勉強でもある。
+- Русский
+- 更快、更高、更强
 
->  你好吗
+<p id="sitetime"></p>
 
-- わかるでしょう
-- кгышрво
-- like someone
+[GitHub](https://github.com/viesuki/)
+[Get Started](README.md)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+<!--background pic-->
+![](pic/book.jpg)
