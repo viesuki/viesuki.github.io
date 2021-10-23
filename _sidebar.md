@@ -1,5 +1,5 @@
 - 前言
-    * [个人介绍](greeting/self_intro.md)
+    * [简介](greeting/self_intro.md)
     * [关于网站](greeting/site.md)
 
 - 日本語
