@@ -1,4 +1,4 @@
-# <center>构建中...</center>
+# <center>简介构建中</center>
 
 ```html
 <html>
@@ -13,7 +13,7 @@
 
 这是一行**强调**的测试
 
-<i class="fas fa-camera"></i><i class="fas fa-camera"></i><i class="fa fa-camera-retro"></i>
+</i><i class="fa fa-camera-retro"></i>
 
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.

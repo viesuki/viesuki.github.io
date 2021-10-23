@@ -22,6 +22,13 @@
 <body>
   <div id="app">Loading...</div>
 
+  <script src="js/to-top.js"></script>
+  <script type="text/javascript" src="./js/jquery.js"></script>
+  <div>
+    <button onclick="returnTop()" id="btnTop" title="TOP"><span>TOP</span></button>
+  </div>
+  
+
   <script>
     var num = 0;
     mermaid.initialize({ startOnLoad: false });
@@ -68,15 +75,16 @@
       name: '<strong>Viesuki_Note</strong>',
       repo: 'https://github.com/viesuki/',
       coverpage: true,
+      auto2top: true,
+      //themeColor: '#5654a2',
       //onlyCover: true,
       loadSidebar: true,
       loadNavbar: true,
-      mergeNavbar: true,
       externalLinkTarget: '_blank',
       subMaxLevel: 3,
 
       search: {
-        maxAge: 840000, // 过期时间，单位毫秒，默认一天
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto', // or 'auto'
         placeholder: '想搜点啥🔍',
         noData: '没找到＞﹏＜',
@@ -171,7 +179,7 @@
   <!-- 回到顶部功能 -->
   <script src="js/jquery.js"></script>
   <script src="js/jquery.group.js"></script>
-  <script type="text/javascript">
+  <script type="">
     $(document).ready(function () {
       $.goup({
         trigger: 100,

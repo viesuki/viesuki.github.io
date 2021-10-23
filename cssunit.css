@@ -88,7 +88,7 @@ img, pre {
 
 .markdown-section code {
   /*color: #7991D1 !important;*/
-  padding: 6px 0px !important;
+  padding: 2px 0px !important;
   border: none;
 }
 
@@ -108,9 +108,9 @@ img, pre {
   background-size: 40px;
   background-repeat: no-repeat;
   background-color: #343a40;
-  margin-bottom: -7px;
-  margin-top: 10px;
-  margin-left: -3px;
+  /*margin-bottom: -7px;
+  margin-top: 10px;*/
+  margin-left: -13px;
   border-radius: 5px;
   background-position: 10px 10px;
 }
@@ -134,7 +134,7 @@ img, pre {
 }
 
 .markdown-section strong {
-  color: #493759;
+  color: #5654a2;
 }
 
 .markdown-section blockquote {
@@ -142,7 +142,6 @@ img, pre {
 }
 
 .markdown-section a {
-  color: #7991D1;
   font-weight: 600;
 }
 
@@ -223,8 +222,18 @@ aside.sidebar ul li.active > a:before {
 }
 /*以上调侧边栏*/
 
+.to-top {
+  display: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  color: #fff;
+  border-radius: 10px;
+  background-color: rgb(102, 126, 233);
+}
+
 body {
   font-size: 16px !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 
 .sidebar-toggle span {
@@ -233,7 +242,7 @@ body {
 
 body.sticky .sidebar, body.sticky .sidebar-toggle {
   width: 250px !important;
-  background-color: rgba(243, 242, 238, 1) !important;
+  background-color: transparent !important;
 }
 
 .content, .sidebar, .markdown-section, body, .search input {
@@ -306,3 +315,25 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
 .github-badge .bg-lightgrey,.github-badge .bg-lightgray {
 	background-color: #9f9f9f !important;
 }
+
+
+/* return top */
+#btnTop {
+  display: none;
+  position: fixed;
+  bottom: 42px;
+  right: 66px;
+  /*z-index: 8;*/
+  border: none;
+  outline: none;
+  background-color: #5654a2;
+  color: white;
+  cursor: pointer;
+  padding: 12px 6px;
+  border-radius: 10px;
+}
+#btnTop:hover {
+  background-color: #42b983;
+  opacity: 0.5;
+}
+
