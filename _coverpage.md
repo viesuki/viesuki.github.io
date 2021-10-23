@@ -13,4 +13,4 @@
 [Get Started](README.md)
 
 <!--background pic-->
-![](pic/book.jpg)
+![](pic/backg-pic.svg)
