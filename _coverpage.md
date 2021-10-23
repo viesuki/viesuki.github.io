@@ -1,6 +1,6 @@
 ![logo](pic/logos.jpg)
 
-## Viesuki_Note
+## <i class="fa fa-mortar-board "></i>Viesuki_Note
 
 > <small>ただの試みであり、勉強でもあります</small>
 
@@ -9,8 +9,8 @@
 
 <p id="sitetime"></p>
 
-[GitHub](https://github.com/viesuki/)
-[Get Started](README.md)
+[<i class="fa fa-github "></i>GitHub](https://github.com/viesuki/)
+[<i class="fa fa-toggle-right "></i>Get Started](README.md)
 
 <!--background pic-->
 ![](pic/backg-pic.svg)
