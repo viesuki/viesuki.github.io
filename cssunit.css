@@ -21,7 +21,7 @@ section.cover .cover-main > p:last-child a:last-child {
   background-position-x: 20px;
   background-color: none;
   border-bottom: none ;
-  top: 40px;
+  top: -25px;
   right: -35px;
 }
 
@@ -322,7 +322,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
   display: none;
   position: fixed;
   bottom: 42px;
-  right: 66px;
+  right: 39px;
   /*z-index: 8;*/
   border: none;
   outline: none;
