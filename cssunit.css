@@ -173,6 +173,14 @@ img, pre {
 padding-top: 6px;
 }
 
+.sidebar, .search input {
+  width: 250px;
+}
+
+.sidebar-toggle {
+  background-color: transparent !important;
+}
+
 aside.sidebar ul li {
 margin: 0;
 position: relative;
