@@ -10,7 +10,7 @@
 <p id="sitetime"></p>
 
 [<i class="fa fa-github "></i>GitHub](https://github.com/viesuki/)
-[<i class="fa fa-toggle-right "></i>Get Started](README.md)
+[<i class="fa fa-toggle-right "></i>Get Started](greeting/self_intro.md)
 
 <!--background pic-->
 ![](pic/backg-pic.svg)

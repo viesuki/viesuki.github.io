@@ -6,4 +6,4 @@
   * [:us:English](/en/)
   * [:jp:日本語](/jp/)
 
-* [<i class="fa fa-home"></i>主页](/README.md)
+* [<i class="fa fa-home"></i>主页](greeting/self_intro.md)
