@@ -2,10 +2,10 @@
 
 ## <i class="fa fa-mortar-board "></i>Viesuki_Note
 
-> <small>ただの試みであり、勉強でもあります</small>
+> <small>旨在记录，也在分享，欢迎交流</small>
 
-- Русский
-- 更快、更高、更强
+- Я тоже изучаю русский язык
+- 毎日楽しく過ごすこと
 
 <p id="sitetime"></p>
 
