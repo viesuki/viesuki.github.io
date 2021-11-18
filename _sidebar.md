@@ -4,6 +4,7 @@
 
 - 点子
     * [怎样问个“好”问题](essays/problem_solve.md)
+    * [网站资源合集](essays/websites.md)
 
 - CS
     * [markdown](cs/markdown.md)
