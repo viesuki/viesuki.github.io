@@ -205,7 +205,7 @@ def fill_list(ulist, html):
 ~~~
 
 > [!ATTENTION]
-> - BeautifulSoup(html, 'html.parser')使得r.text能够以html的格式读懂，形成树形结构，并产生BeautifulSoup、Tag等对象。Tag对象对应的就是html中的各类格式标签<p></p>这种。
+> - BeautifulSoup(html, 'html.parser')使得r.text能够以html的格式读懂，形成树形结构，并产生BeautifulSoup、Tag等对象。Tag对象对应的就是html中的各类格式标签`<p></p>、<td></td>`这种。
 > - 这一步需要根据不同网站具体而定，在本例中，通过查看网站源代码，可以看到标签'tbody'下子标签'td'中保存着所需要的数据，找到并保存给自定变量，最后形成一个数据集。
 
 5. 输出结果函数
