@@ -7,7 +7,7 @@
 |[菜鸟教程](https://www.runoob.com/) |关于各种计算机语言C、python等，你想要的都有 |中|
 |[SoloLearn](https://www.sololearn.com/)| Python、html、c++等编程基础知识，有讲解和练习 | 英|
 |[马克思主义文库](https://www.marxists.org/chinese/index.html)| 顾名思义| 中|
-|[B站](https://www.bilibili.com)| 懂得都懂 | 中|
+|[B站](https://www.bilibili.com)| 众所周知 | 中|
 
 
 ## 实用类
@@ -18,6 +18,9 @@
 |[Deepl翻译](https://www.deepl.com/translator) |在线翻译，也有客户端，很好用|多|
 |[iLovePDF](https://www.ilovepdf.com/zh-cn) |PDF在线免费处理，支持转换、编辑、合并等操作|多|
 |[slidesgo](https://slidesgo.com/) |PPT模板下载，有免费的|英|
+|[空投](https://airportal.cn) |临时**传输各种文件**，无需登录，很方便|中|
+|[分秒帧个人网盘](https://app.mediatrack.cn/disk/files) |**提供免费无限网盘服务，良心**|中|
+
 
 ## 工具类
 
@@ -32,7 +35,7 @@
 ## ACG相关
 |网址|内容|语言|
 |:---|:---|:---|
-|[Zzzfun动漫](http://www.zzzfun.com) | 界面友好，在线观看，资源很多。 |中|
+|[Zzzfun动漫](http://www.zzzfun.com) | **界面友好，在线观看，资源很多。** |中|
 |[Bangumi 番组计划](https://bangumi.tv/) | 提供ACG资讯 |中|
 |[ナタリー](https://natalie.mu) |日本流行文化资讯，每季度会做动漫汇总 |日|
 |[東京図書館](https://www.tokyotosho.info?)|ACG资源下载网站，提供种子或磁力链接|英|
@@ -52,6 +55,12 @@
 |[Weblio辞書](https://www.weblio.jp/)| 辞典| 多|
 |[OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/)|日语在线语音辞书，也提供《标日》的单词|多|
 |[NHK新闻radio](https://www.nhk.or.jp/radionews/)|日语新闻磨耳朵|日|
+
+## 应用推荐
+
+* [APKSSR](https://mdl.ink/CAOdJu) 下载海外APP
+* **OURplay** 模拟Google环境，玩外服游戏
+* **Tandem** 可以和外国人聊天
 
 ## 科学上网
 
